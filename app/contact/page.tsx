@@ -6,7 +6,7 @@ const ContactPage = () => {
       <section id="contact" className="py-20 bg-white">
         <div className="container mx-auto px-6 text-center">
           <h2 className="text-3xl font-bold text-gray-800">Contact Us</h2>
-          <p className="mt-4 text-gray-600">We'd love to hear from you. Get in touch with us today!</p>
+          <p className="mt-4 text-gray-600">We would love to hear from you. Get in touch with us today!</p>
           <form
             className="mt-8 max-w-md mx-auto"
           >
