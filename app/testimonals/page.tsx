@@ -15,7 +15,7 @@ const TestimonalPage = () => {
                 <h3 className="mt-4 font-bold text-gray-800">- Jane Smith</h3>
             </div>
             <div className="p-6 bg-gray-100 rounded-lg shadow-md">
-                <p className="text-gray-600">Professional, efficient, and creative. Couldn't ask for more!</p>
+                <p className="text-gray-600">Professional efficient and creative.</p>
                 <h3 className="mt-4 font-bold text-gray-800">- Mark Lee</h3>
             </div>
         </div>
